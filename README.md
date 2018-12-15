@@ -7,5 +7,5 @@ To play the game:
 2. python game.py
 
 Unit tests can be run:
- python tests_game_board.py
- python tests_player.py
+* python tests_game_board.py
+* python tests_player.py
