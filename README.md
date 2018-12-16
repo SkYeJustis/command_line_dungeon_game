@@ -9,5 +9,4 @@ To play the game:
 
 
 Unit tests can be run:
-* python tests_game_board.py
-* python tests_player.py
+* tests.py
